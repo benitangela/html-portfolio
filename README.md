@@ -1,6 +1,6 @@
 # html-portfolio
 
-This is my first web development project using HTML.
+This is the first web development project using HTML.
 
 ## Content
 The content is random and covered several HTML basics, including:
